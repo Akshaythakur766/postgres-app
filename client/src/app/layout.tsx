@@ -33,8 +33,6 @@ export default function RootLayout({
       >
         <div>
           <DashboardWrapper>
-
-
           {/* <AppWrapper> */}
 
             {children}
